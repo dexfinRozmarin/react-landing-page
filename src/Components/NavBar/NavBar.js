@@ -75,8 +75,15 @@ function ButtonAppBar(props) {
               }}
             >
               {' '}
-              Last price BCT <br />{' '}
-              
+              <br />{' '}
+              <span
+                style={{ fontSize: '15px', fontWeight: 'bold', color: 'black' }}
+              >
+                
+                <span style={{ color: '#f76956', margin: '5px' }}>
+                  
+                </span>{' '}
+              </span>{' '}
             </p>
             <p
               className={classes.mobile}
@@ -88,14 +95,14 @@ function ButtonAppBar(props) {
               }}
             >
               {' '}
-              Last price BCT <br />{' '}
+              <br />{' '}
               <span
                 style={{ fontSize: '15px', color: 'black', fontWeight: 'bold' }}
               >
-                $ 24,242 909{' '}
+                {' '}
                 <span style={{ color: '#23cc89', margin: '5px' }}>
                   {' '}
-                  $2.45 ↑
+                
                 </span>{' '}
               </span>{' '}
             </p>
