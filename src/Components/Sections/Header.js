@@ -8,12 +8,10 @@ export default function Header() {
       <Grid item lg={12} className="bg-overlay">
         <section className="main-section">
           <h1 className="main-heading">
-            The world's leading cryptocurrency trading platform
+          Platforma pro nákup, prodej a správu digitálních měn a tokenizovaných aktiv
           </h1>
           <p className="main-para">
-            Cryptorio has integrated TradingView charts so you can enjoy a
-            complete suite of tools to draw, annotation, download and share your
-            charts.
+          Dexfin přináší platformu, která umožňuje růst Vašeho finančního portfolia, dky finančním produktům nové generace.
           </p>
           <Animated
             animationIn="bounceIn"
@@ -32,7 +30,7 @@ export default function Header() {
                 }}
               >
                 {' '}
-                Open a live account
+                Registrace
               </Button>
               <Button
                 variant="outlined"
@@ -41,7 +39,7 @@ export default function Header() {
                 style={{ fontWeight: 'bold' }}
               >
                 {' '}
-                Try free for 30 days
+                Intro Video
               </Button>
             </div>
           </Animated>

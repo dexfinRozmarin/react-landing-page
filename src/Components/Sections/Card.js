@@ -66,7 +66,7 @@ function Cards(props) {
           color="textSecondary"
           gutterBottom
         >
-          Buy Currency
+          Nákup a prodej digitálních měn
         </Typography> */}
         <img
             src={props.type === 'mark1' ? mark1 : mark2}
