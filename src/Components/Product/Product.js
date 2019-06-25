@@ -77,7 +77,7 @@ class Product extends React.Component {
             fontSize: '15px'
           }}
         >
-          Products{' '}
+          Produkty{' '}
           <i
             className="fas fa-angle-down"
             style={{

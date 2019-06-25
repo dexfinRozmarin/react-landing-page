@@ -74,7 +74,7 @@ class MenuListComposition extends React.Component {
               <Paper style={{ width: '150px', marginRight: '25px' }}>
                 <ClickAwayListener onClickAway={this.handleClose}>
                   <MenuList>
-                    <MenuItem onClick={this.handleClose}>Domovská stránka</MenuItem>
+                    <MenuItem onClick={this.handleClose}>Úvodní stránka</MenuItem>
                     <MenuItem onClick={this.handleClose}>Trh</MenuItem>
                     <MenuItem onClick={this.handleClose}>Aktiva</MenuItem>
                     <MenuItem onClick={this.handleClose}>Účet</MenuItem>

@@ -18,28 +18,28 @@ function Footer() {
       <Grid item lg={2} md={2} sm={2}>
         <List>
           <ListItem style={{ color: 'white', fontWeight: 'bold' }}>
-            COMPANY
+           SPOLEČNOST
           </ListItem>
-          <ListItem style={{ color: 'white' }}>Become a Vendor</ListItem>
-          <ListItem style={{ color: 'white' }}>Affiliates</ListItem>
-          <ListItem style={{ color: 'white' }}>Our Blog</ListItem>
-          <ListItem style={{ color: 'white' }}>Privacy Policy</ListItem>
+          <ListItem style={{ color: 'white' }}>Staňte se Prodejce</ListItem>
+          <ListItem style={{ color: 'white' }}>Spolupráce</ListItem>
+          <ListItem style={{ color: 'white' }}>Náš Blog</ListItem>
+          <ListItem style={{ color: 'white' }}>Zásady ochrany osobních údajů</ListItem>
         </List>
       </Grid>
       <Grid item lg={3} md={3} sm={3}>
         <List>
           <ListItem style={{ color: 'white', fontWeight: 'bold' }}>
-            CONTACT
+            KONTAKTY
           </ListItem>
           <ListItem style={{ color: 'white' }}>
             {' '}
-            Support: support@yoursite.com
+            Podpora: support@dexfin.com
           </ListItem>
           <ListItem style={{ color: 'white' }}>
-            Listing Application: listing@yoursite.com
+            Seznam Žádosti: listing@dexfin.com
           </ListItem>
           <ListItem style={{ color: 'white' }}>
-            Twitter: twitter@yourname
+            Twitter: twitter@dexfine.com
           </ListItem>
           <ListItem style={{ color: 'white' }}>
             <i className="fab fa-facebook-f icon-style" />{' '}
@@ -53,10 +53,10 @@ function Footer() {
         <List>
           <ListItem style={{ color: 'white', fontWeight: 'bold' }}>
             {' '}
-            APP DOWNLOAD{' '}
+            STAŽENÍ APLIKACE{' '}
           </ListItem>
           <ListItem style={{ color: 'white' }}>
-            Volume (24H) 5,973.12043195 BTC ≈ 40,647,084.54 USD
+           Objem za (24H) 5,973.12043195 BTC ≈ 40,647,084.54 USD
           </ListItem>
           <ListItem style={{ color: 'white' }}>
             {' '}

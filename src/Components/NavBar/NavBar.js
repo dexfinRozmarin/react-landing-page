@@ -120,7 +120,7 @@ function ButtonAppBar(props) {
               fontSize: '15px'
             }}
           >
-            News
+            Zprávy
           </Button>
 
           <Button
@@ -133,7 +133,7 @@ function ButtonAppBar(props) {
               fontSize: '15px'
             }}
           >
-            Signup | login
+            Registrace | přihlásit se
           </Button>
 
           <Button
