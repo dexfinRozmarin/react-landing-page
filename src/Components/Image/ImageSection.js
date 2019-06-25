@@ -7,6 +7,7 @@ function ImageSection() {
     <Grid container className="image-section">
       <Grid item lg={2} />
       <Grid item lg={8}>
+      <h1 className="advance-heading">Advance Trading Tools</h1>
         <div className="chart-image">
           <img
             src={chart}

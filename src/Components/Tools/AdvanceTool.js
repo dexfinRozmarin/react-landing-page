@@ -6,7 +6,7 @@ function AdvanceTool() {
     <Grid container className="advance-tool">
       <Grid item lg={2} />
       <Grid item lg={8}>
-        <h1 className="advance-heading">Advance Trading Tools</h1>
+        {/*<h1 className="advance-heading">Advance Trading Tools</h1> */}
         <p style={{ textAlign: 'center' }}>
           Cryptorio is a full-featured spot trading platform for major digital
           assets & cryptocurrencies, including{' '}
