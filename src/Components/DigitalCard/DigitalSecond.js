@@ -11,9 +11,9 @@ function DigitalCard() {
           <div className="grid-column">
             <div className="grid-card">
               <img src={icon4} alt="icon4" />
-              <h3>Secure storage</h3>
-              <p>The world's leading cryptocurrency trading platform.</p>
-              <button className="storage">Read More → </button>
+              <h3>Nízké poplatky</h3>
+              <p>Profitabilní investiční příležitosti a podmínky</p>
+              {/*<button className="storage">Read More → </button>*/}
             </div>
           </div>
         </Fade>
@@ -21,9 +21,9 @@ function DigitalCard() {
           <div className="grid-column">
             <div className="grid-card">
               <img src={icon5} alt="icon" />
-              <h3>Secure storage</h3>
-              <p>The world's leading cryptocurrency trading platform.</p>
-              <button className="storage">Read More → </button>
+              <h3>Podpora 24/7</h3>
+              <p>Instantní, přátelská a vždy ochotna pomoci</p>
+              {/*<button className="storage">Read More → </button>*/}
             </div>
           </div>
         </Fade>
@@ -31,9 +31,9 @@ function DigitalCard() {
           <div className="grid-column">
             <div className="grid-card">
               <img src={icon6} alt="icon" />
-              <h3>Secure storage</h3>
-              <p>The world's leading cryptocurrency trading platform.</p>
-              <button className="storage">Read More → </button>
+              <h3>Rychlost platformy</h3>
+              <p>Maximální rychlost procesování Vašich transakcí</p>
+              {/*<button className="storage">Read More → </button>*/}
             </div>
           </div>
         </Fade>

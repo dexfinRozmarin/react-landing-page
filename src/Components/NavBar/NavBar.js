@@ -120,10 +120,10 @@ function ButtonAppBar(props) {
               fontSize: '15px'
             }}
           >
-            Zprávy
+            Novinky
           </Button>
 
-          <Button
+          {/*<Button
             className={classes.mobile}
             style={{
               margin: '5px',
@@ -134,7 +134,7 @@ function ButtonAppBar(props) {
             }}
           >
             Registrace | přihlásit se
-          </Button>
+          </Button> */}
 
           <Button
             className={classes.mobile}
@@ -146,7 +146,7 @@ function ButtonAppBar(props) {
               color: 'white'
             }}
           >
-            Web Trader
+            Registrace
           </Button>
 
           <Menu />

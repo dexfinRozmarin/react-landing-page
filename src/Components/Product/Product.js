@@ -213,7 +213,7 @@ class Product extends React.Component {
                   </div>
                 </ClickAwayListener>
                 <Divider />
-                <h6 className="our-products">Our Products</h6>
+                <h6 className="our-products">Naše Produkty</h6>
               </Paper>
             </Grow>
           )}

@@ -12,6 +12,7 @@ function ImageSection2() {
       <Grid item lg={8}>
         <section className="main-section">
           <Fade left>
+          <h1 className="advance-heading">Pokročilá obchodní nástroje</h1>
             <img
               src={image}
               alt="logo"

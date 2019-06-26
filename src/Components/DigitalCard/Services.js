@@ -10,8 +10,9 @@ function DigitalCard() {
       <Grid item lg={4} sm={4} md={4} xs={12}>
         <Fade delay={500} duration={500}>
           <ServiceCard
-            title="Customizable interface"
-            description="We've created the mobile tools you need for trading on the go.We've created the mobile tools you need for trading on the go."
+            title="Nastavitelné obchodní rozhraní"
+            description="Můžete si na ploše zobrazit až 1-6 grafů z různých obchodních párů a využít rozličných 
+            indikátorů a notifikací"
           />
         </Fade>
       </Grid>
@@ -19,8 +20,9 @@ function DigitalCard() {
         <Fade delay={800} duration={100}>
           {' '}
           <ServiceCard
-            title="Margin trading"
-            description="Organize your workspace according to your needs compose your layout, choose between themes, set up notifications and data preferences."
+            title="Přehledná správa portfolia"
+            description="Je čas přejít od tabulkových přehledů s Vašim aktivy k přehlednému zobrazení Vašeho 
+            portfolia a jeho jednoduché správě"
           />
         </Fade>
       </Grid>

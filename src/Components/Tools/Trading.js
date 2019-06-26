@@ -6,16 +6,15 @@ function Trading() {
     <Grid container className="advance-tool">
       <Grid item lg={2} />
       <Grid item lg={8}>
-        <h1 className="advance-heading">Advance Trading Tools</h1>
+        {/*<h1 className="advance-heading">Pokročilá obchodní nástroje</h1> */}
         <p style={{ textAlign: 'center' }}>
-          Cryptorio is a global leader in the blockchain revolution. We operate
-          the premier U.S.-based blockchain trading platform, which is designed
-          for customers who demand lightning-fast trade execution, dependable
-          digital wallets, and industry-leading security practices.
+        Dexfin je globální leader v bitcoinové a blockchainové revoluci, díky obchodní platformě a dalším 
+        navazujícím produktům, které jsou připraveny pro klienty, kteří vyžadují bleskově-rychlé procesování 
+        obchodů, bezpečné nakládání s digitálními prostředky a ty nejvyšší bezpečností standardy.
         </p>
 
         <br />
-        <Button
+        {/*<Button
           size="large"
           className="advance-btn"
           style={{
@@ -26,7 +25,7 @@ function Trading() {
         >
           {' '}
           APP DOWNLOAD →
-        </Button>
+        </Button> */}
       </Grid>
       <Grid item lg={2} />
     </Grid>

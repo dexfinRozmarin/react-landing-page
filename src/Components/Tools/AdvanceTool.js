@@ -8,23 +8,16 @@ function AdvanceTool() {
       <Grid item lg={8}>
         {/*<h1 className="advance-heading">Advance Trading Tools</h1> */}
         <p style={{ textAlign: 'center' }}>
-          Cryptorio is a full-featured spot trading platform for major digital
-          assets & cryptocurrencies, including{' '}
-          <span style={{ fontWeight: 'bold' }}>
-            {' '}
-            Bitcoin, Ethereum, EOS, Lite coin, Ripple, NEO, Monero{' '}
-          </span>{' '}
-          and many more. Bitfinex offers leveraged margin trading through a
-          peer-to-peer funding market, allowing users to securely trade with up
-          to 3.3x leverage.
+        Dexfin, není jen další "burzou pro kryptoměny", ale ecosystém navázaných produktů, které se vzájemně 
+        doplňují a uživatelům přinesou jednoduše použitelnou a bezpečnou platformu pro nákup, prodej a správu 
+        digitálního portfolia jedincům a institucionálním klientům. 
         </p>
         <br />
         <p style={{ textAlign: 'center' }}>
-          We also boast a suite of order types to help traders take advantage of
-          every situation.
+          _______________________________________________________________________________________________
         </p>
         <br />
-        <Button
+        {/*<Button
           size="large"
           variant="contained"
           className="advance-btn"
@@ -32,7 +25,7 @@ function AdvanceTool() {
         >
           {' '}
           Learn More →
-        </Button>
+        </Button>*/}
       </Grid>
       <Grid item lg={2} />
     </Grid>

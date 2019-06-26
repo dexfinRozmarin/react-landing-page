@@ -11,8 +11,7 @@ function Setup() {
             <Grid container>
               <Grid item lg={12}>
                 <h2 style={{ textAlign: 'center', marginTop: '100px' }}>
-                  Welcome to one of the most active crypto exchanges in the
-                  world
+                 Dexfin burza otevírá již brzy. Chcete být u toho jako jedni z prvních? 
                 </h2>
                 <Flash>
                   <Button
@@ -29,7 +28,7 @@ function Setup() {
                     }}
                   >
                     {' '}
-                    Set up Trading Account{' '}
+                    Registrace do beta verze{' '}
                   </Button>
                 </Flash>
                 <Button
@@ -44,9 +43,10 @@ function Setup() {
                     fontSize: '14px'
                   }}
                 >
+                  {/*
                   {' '}
                   Already a memner ?{' '}
-                  <span style={{ color: '#23cc89' }}> Sign in </span>
+                  <span style={{ color: '#23cc89' }}> Sign in </span> */}
                 </Button>
               </Grid>
             </Grid>{' '}

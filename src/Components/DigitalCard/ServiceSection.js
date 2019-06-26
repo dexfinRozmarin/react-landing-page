@@ -11,8 +11,9 @@ function DigitalCard() {
         <Fade delay={1000} duration={1200}>
           {' '}
           <ServiceCard
-            title="Margin trading"
-            description="Organize your workspace according to your needs compose your layout, choose between themes, set up notifications and data preferences."
+            title="Mobilní zobrazení"
+            description="Uživatelské rozhraní je optimalizované i pro mobilní zařízení, tak že spravovat Vaše portfolio 
+            a zadávat příkazy můžete, kdekoliv"
           />
         </Fade>
       </Grid>
@@ -20,8 +21,9 @@ function DigitalCard() {
         <Fade delay={1200} duration={1500}>
           {' '}
           <ServiceCard
-            title="Customizable interface"
-            description="We've created the mobile tools you need for trading on the go.We've created the mobile tools you need for trading on the go."
+            title="Notifikace o pohybech kurzu"
+            description="Naše bleskové notifikace na displej mobilního telefonu nebo do prohlížeče, Vám umožní získat 
+            přehled o pohybu cen, dle nastavených parametrů"
           />
         </Fade>
       </Grid>

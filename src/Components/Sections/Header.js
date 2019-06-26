@@ -11,7 +11,8 @@ export default function Header() {
           Platforma pro nákup, prodej a správu digitálních měn a tokenizovaných aktiv
           </h1>
           <p className="main-para">
-          Dexfin přináší platformu, která umožňuje růst Vašeho finančního portfolia, dky finančním produktům nové generace.
+          Dexfin přináší platformu, která umožňuje růst Vašeho finančního portfolia, dky finančním produktům nové 
+          generace.
           </p>
           <Animated
             animationIn="bounceIn"

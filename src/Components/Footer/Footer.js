@@ -18,28 +18,28 @@ function Footer() {
       <Grid item lg={2} md={2} sm={2}>
         <List>
           <ListItem style={{ color: 'white', fontWeight: 'bold' }}>
-           SPOLEČNOST
+            COMPANY 
           </ListItem>
-          <ListItem style={{ color: 'white' }}>Staňte se Prodejce</ListItem>
-          <ListItem style={{ color: 'white' }}>Spolupráce</ListItem>
+          <ListItem style={{ color: 'white' }}>O nás</ListItem>
           <ListItem style={{ color: 'white' }}>Náš Blog</ListItem>
-          <ListItem style={{ color: 'white' }}>Zásady ochrany osobních údajů</ListItem>
+          <ListItem style={{ color: 'white' }}>FAQ</ListItem>
+          <ListItem style={{ color: 'white' }}>Kontakt</ListItem>
         </List>
       </Grid>
       <Grid item lg={3} md={3} sm={3}>
         <List>
           <ListItem style={{ color: 'white', fontWeight: 'bold' }}>
-            KONTAKTY
+            KONTAKT
           </ListItem>
           <ListItem style={{ color: 'white' }}>
             {' '}
-            Podpora: support@dexfin.com
+            Podpora: hello@dexfin.com
           </ListItem>
           <ListItem style={{ color: 'white' }}>
-            Seznam Žádosti: listing@dexfin.com
+            Tisk: press@dexfin.com
           </ListItem>
           <ListItem style={{ color: 'white' }}>
-            Twitter: twitter@dexfine.com
+            Partneři: partners@dexfin.com
           </ListItem>
           <ListItem style={{ color: 'white' }}>
             <i className="fab fa-facebook-f icon-style" />{' '}
@@ -53,14 +53,14 @@ function Footer() {
         <List>
           <ListItem style={{ color: 'white', fontWeight: 'bold' }}>
             {' '}
-            STAŽENÍ APLIKACE{' '}
+            Kanceláře společnosti{' '}
           </ListItem>
-          <ListItem style={{ color: 'white' }}>
-           Objem za (24H) 5,973.12043195 BTC ≈ 40,647,084.54 USD
+          <ListItem style={{ color: 'white'}}>
+            Adresa: Pernerova 149/35, Praha, Hlavní město Praha 186 00, Czech Republic
           </ListItem>
           <ListItem style={{ color: 'white' }}>
             {' '}
-            2018-09-22 | 09:21:46 (UTC+8) 395ms
+            Phone: +420 735 918 688
           </ListItem>
         </List>
       </Grid>

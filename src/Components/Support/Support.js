@@ -17,7 +17,7 @@ function Support() {
               height="50px"
               className="image-center"
             />{' '}
-            <h4 className="support-text">Podpora 24 hodin</h4>
+            <h4 className="support-text">24h - Hodinová Podpora</h4>
           </Grid>
           <Grid item lg={4} xs={12}>
             <img
@@ -27,7 +27,7 @@ function Support() {
               height="50px"
               className="image-center"
             />
-            <h4 className="support-text">Rozšiřující funkcionalita</h4>
+            <h4 className="support-text">Přibývající funkcionality</h4>
           </Grid>
           <Grid item lg={4} xs={12}>
             <img
@@ -37,7 +37,7 @@ function Support() {
               height="50px"
               className="image-center"
             />
-            <h4 className="support-text">Neomezené vklady & výběry</h4>
+            <h4 className="support-text">Rychlé vklady a výběry</h4>
           </Grid>
         </Grid>
       </div>

@@ -34,7 +34,7 @@ body {
   margin-top: 100px;
 }
 .section-bg-image {
-  margin-top: 100px;
+  margin-top: 50px;
 }
 .main-heading {
   color: black;
@@ -82,7 +82,7 @@ body {
   display: inline;
 }
 .advance-tool {
-  margin-top: 60px;
+  margin-top: 120px;
 }
 .plus-image {
   background-image: url('./Assets/img/section.png');
@@ -101,6 +101,7 @@ body {
 }
 .digital {
   margin-top: 50px;
+  margin-bottom: 50px
 }
 .digital-heading {
   text-align: center;
@@ -271,6 +272,7 @@ body {
 /* Remove extra left and right margins, due to padding */
 .grid-row {
   margin: 0 50px;
+
 }
 
 /* Clear floats after the columns */

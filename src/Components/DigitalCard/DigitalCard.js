@@ -11,9 +11,9 @@ function DigitalCard() {
           <div className="grid-column">
             <div className="grid-card">
               <img src={icon1} alt="icon" />
-              <h3>Secure storage</h3>
-              <p>The world's leading cryptocurrency trading platform.</p>
-              <button className="storage">Read More → </button>
+              <h3>Bezpečné peněženky</h3>
+              <p>Peněženky zabezpečné multi-sig technologií a hw klíči</p>
+              {/*<button className="storage">Read More → </button>*/}
             </div>
           </div>
         </Fade>
@@ -21,9 +21,9 @@ function DigitalCard() {
           <div className="grid-column">
             <div className="grid-card">
               <img src={icon2} alt="icon2" />
-              <h3>Secure storage</h3>
-              <p>The world's leading cryptocurrency trading platform.</p>
-              <button className="storage">Read More → </button>
+              <h3>Algoritmické obchodování</h3>
+              <p>API propojení na 10 největších burz přímo z Dexfin trading rozhraní</p>
+              {/*<button className="storage">Read More → </button>*/}
             </div>
           </div>
         </Fade>
@@ -32,9 +32,9 @@ function DigitalCard() {
           <div className="grid-column">
             <div className="grid-card">
               <img src={icon3} alt="icon3" />
-              <h3>Secure storage</h3>
-              <p>The world's leading cryptocurrency trading platform.</p>
-              <button className="storage">Read More → </button>
+              <h3>Platební možnosti</h3>
+              <p>Vklady BTC, ETH, EUR, CZK, USDT, USDC  a další budou příbývat</p>
+              {/*<button className="storage">Read More → </button>*/}
             </div>
           </div>
         </Fade>

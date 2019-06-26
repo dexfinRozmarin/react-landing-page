@@ -16,10 +16,10 @@ function AboutUs(props) {
 
   return (
     <div id="about">
-      <h2 style={styles.title}>About Us</h2>
+      {/*<h2 style={styles.title}>About Us</h2>
       <p style={styles.content}>
         Here is About us page.
-      </p>
+      </p>*/}
     </div>
   );
 }
